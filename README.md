@@ -95,7 +95,7 @@ walmart-sales-forecasting/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/maheshmaddileti/walmart-sales-forecasting
+git clone https://github.com/maheshmaddileti-ai/walmart-sales-forecasting
 ```
 
 2. Install dependencies
