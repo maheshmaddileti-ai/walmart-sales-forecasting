@@ -116,7 +116,7 @@ python walmart_project.py
 
 **Mahesh Maddileti**  
 PGP in Data Science & Machine Learning — IntelliPaat (April 2026)  
-[LinkedIn](https://linkedin.com/in/maheshmaddileti) | [GitHub](https://github.com/maheshmaddileti)
+[LinkedIn](https://linkedin.com/in/maheshmaddileti) | [GitHub](https://github.com/maheshmaddileti-ai)
 
 ---
 
