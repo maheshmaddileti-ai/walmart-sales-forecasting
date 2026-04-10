@@ -84,6 +84,7 @@ The final prediction averages the top 3 models (Decision Tree, Random Forest, XG
 ```
 walmart-sales-forecasting/
 │
+├── Walmart_Project.ipynb     # Main analysis code
 ├── walmart_project.py        # Main analysis and modeling code
 ├── Walmart_Dataset.csv       # Dataset
 └── README.md                 # Project documentation
